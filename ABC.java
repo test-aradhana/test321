@@ -3,4 +3,5 @@ public class ABC {
   int x;
   int z;
   int a;
+  int b;
 }
