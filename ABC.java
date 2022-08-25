@@ -4,4 +4,6 @@ public class ABC {
   int r;
   
   int a;
+  
+  int b;
 }
